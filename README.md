@@ -1,6 +1,6 @@
 # Calidad_Udemy
 
-Etapa 1:
+#Etapa 1:
 ![image](https://user-images.githubusercontent.com/15520623/137440082-6850ff69-3655-4462-9e6b-8f21ed19f943.png)
 
 
