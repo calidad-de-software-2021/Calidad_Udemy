@@ -1,7 +1,5 @@
 # Calidad_Udemy
 
-Desarrollo:
-
 Etapa 1
 ![image](https://user-images.githubusercontent.com/15520623/137439485-a2e20023-17dd-4f37-8f9a-adab27167226.png)
 
