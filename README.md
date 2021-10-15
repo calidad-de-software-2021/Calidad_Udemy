@@ -1,7 +1,7 @@
 # Calidad_Udemy
 
 Etapa 1:
-![image](https://user-images.githubusercontent.com/15520623/137439485-a2e20023-17dd-4f37-8f9a-adab27167226.png)
+![image](https://user-images.githubusercontent.com/15520623/137440082-6850ff69-3655-4462-9e6b-8f21ed19f943.png)
 
 
 Diagrama de casos de uso:
