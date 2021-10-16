@@ -9,6 +9,5 @@ Etapa 1:  Registrar las historias de usuario  en el tablero kanban bajo la sigui
 
 
 Diagrama de casos de uso:
-![image](https://user-images.githubusercontent.com/49110761/137518547-d2b12ecf-7441-4e95-a605-b40c67f97fd2.png)
 
 ![Casos de uso](https://user-images.githubusercontent.com/92237994/137569343-daf9c08e-16a6-494e-9473-89005c773a77.jpg)
